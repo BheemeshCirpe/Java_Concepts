@@ -1,6 +1,6 @@
 package com.java.interview_questions;
 
-public class Legato_Question_1 {
+public class IQ_6_Legato_Question_1 {
 
 	static int i = 1;
 
@@ -17,8 +17,8 @@ public class Legato_Question_1 {
 
 	public static void main(String[] args) {
 
-		Legato_Question_1.m1();
-		Legato_Question_1.m2();
+		IQ_6_Legato_Question_1.m1();
+		IQ_6_Legato_Question_1.m2();
 
 	}
 

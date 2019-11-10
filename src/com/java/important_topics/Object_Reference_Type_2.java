@@ -13,6 +13,8 @@ public class Object_Reference_Type_2 {
 		obj.add("Rupa");
 		obj.add(10.1);
 		
+		System.out.println(obj);
+		
 		for(Object a :obj)
 			System.out.println(a);
 

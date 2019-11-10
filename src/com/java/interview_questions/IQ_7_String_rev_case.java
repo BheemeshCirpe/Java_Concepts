@@ -1,6 +1,6 @@
-package com.java.practise;
+package com.java.interview_questions;
 
-public class String_rev_case {
+public class IQ_7_String_rev_case {
 	public static void main(String args[]) {
 		String s1 = "MaLaYaLaM", rev = "";
 

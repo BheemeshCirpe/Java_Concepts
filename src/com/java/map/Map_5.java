@@ -10,9 +10,9 @@ public class Map_5 {
 	LinkedHashMap<Integer,String> lhm = new LinkedHashMap<Integer, String>();
 	
 	lhm.put(1,"rupa");
-	lhm.put(2, "shilpa");
-	lhm.put(3, "Bheemesh");
-	lhm.put(4, "Alu");
+	lhm.put(2,"shilpa");
+	lhm.put(3,"Bheemesh");
+	lhm.put(4,"Alu");
 	
 	for(Map.Entry m:lhm.entrySet())
 		

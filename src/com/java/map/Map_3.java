@@ -13,10 +13,14 @@ public class Map_3 {
 		lhm.put(3,"kerala");
 		
 		System.out.println(lhm.get(2));
-		System.out.println(lhm.containsValue("Hyd"));
-		System.out.println(lhm.containsValue("Hy"));
-		System.out.println(lhm.containsKey(1));
-		System.out.println(lhm.containsKey(5));
+		
+		
+		
+		  System.out.println(lhm.containsValue("Hyd"));
+		  System.out.println(lhm.containsValue("Hy"));
+		  System.out.println(lhm.containsKey(1));
+		  System.out.println(lhm.containsKey(5));
+		 
 	}
 
 }
